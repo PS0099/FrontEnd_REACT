@@ -1,17 +1,11 @@
-<<<<<<< HEAD
+
 # FrontEnd_REACT
 This project is about react 
 =======
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# have developed a React-based ToDo application with additional features, including a login page that does not require backend authentication. The app utilizes local storage for data management, allowing users to log in with any email and password. Users can add, delete, mark tasks as favorite or complete. Additionally, if a task contains keywords like "outdoor," "walk," "run," "hiking," or "park," the application fetches and displays the current weather conditions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Project Link https://app.netlify.com/sites/reliable-sprite-d4b67f/deploys/67cd71f19901dac6aa6a1769
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> a04ab03 (Initial commit)
